@@ -1,5 +1,8 @@
 # Matilda Burnett's Programming Portfolio 2024-25
 Projected graduation in 2027
+My favorite video: https://www.youtube.com/watch?v=YoB8t0B4jx4
+
+[![Mutant Spider Dog](Screenshot 2024-08-19 12.23.15 PM.png)](http://www.youtube.com/watch?v=YoB8t0B4jx4)
 #### Experience
 * Working in Unity since 2021 (C#)
 * Experience in ClipStudioPaint (animation and drawing) and Adobe Photoshop (drawing)
