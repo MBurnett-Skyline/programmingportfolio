@@ -10,5 +10,10 @@
 * In the process of creating an analog horror series with transitions, effects, and animation
 
 ## Term 1
-
+### Etch-A-Sketch
+Graphics project with keypress drawing controls with the ability to save an image.
+![Running App]()
+[Source Code]()
 ## Term 2
+### Calculator
+Object oriented graphical caluclator with custom buttons and UI.
