@@ -12,20 +12,16 @@
 ## Term 1
 ### Computer History Timeline
 Graphics project with
-![Running App]()
-[Source Code]()
+![Running App](https://github.com/MBurnett-Skyline/programmingportfolio/blob/main/images/timeline.png?raw=true)
+[Source Code](https://github.com/MBurnett-Skyline/programmingportfolio/blob/main/src/term1/Timeline/Timeline.pde)
 ### Grading Application
 Graphics project with logic converting grade percentages to GPA on a slider.
-![Running App]()
-[Source Code]()
-### Temperature Converter
-jkrgdsgkjrht
-![Running App]()
-[Source Code]()
+![Running App](https://github.com/MBurnett-Skyline/programmingportfolio/blob/main/images/grade.png?raw=true)
+[Source Code](https://github.com/MBurnett-Skyline/programmingportfolio/blob/main/src/term1/GradingApp/GradingApp.pde)
 ### Etch-A-Sketch
 Graphics project with keypress drawing controls with the ability to save an image.
-![Running App]()
-[Source Code]()
+![Running App](https://github.com/MBurnett-Skyline/programmingportfolio/blob/main/images/sketch.png?raw=true)
+[Source Code](https://github.com/MBurnett-Skyline/programmingportfolio/blob/main/src/term1/EtchASketch/EtchASketch.pde)
 ## Term 2
 ### Calculator
 Object oriented graphical caluclator with custom buttons and UI.
