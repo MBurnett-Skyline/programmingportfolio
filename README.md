@@ -10,6 +10,18 @@
 * In the process of creating an analog horror series with transitions, effects, and animation
 
 ## Term 1
+### Computer History Timeline
+Graphics project with
+![Running App]()
+[Source Code]()
+### Grading Application
+Graphics project with logic converting grade percentages to GPA on a slider.
+![Running App]()
+[Source Code]()
+### Temperature Converter
+jkrgdsgkjrht
+![Running App]()
+[Source Code]()
 ### Etch-A-Sketch
 Graphics project with keypress drawing controls with the ability to save an image.
 ![Running App]()
@@ -17,3 +29,5 @@ Graphics project with keypress drawing controls with the ability to save an imag
 ## Term 2
 ### Calculator
 Object oriented graphical caluclator with custom buttons and UI.
+![Running App]()
+[Source Code]()
