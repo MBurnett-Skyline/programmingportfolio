@@ -1,4 +1,4 @@
-# Matilda Burnett's Programming Portfolio 2024-25
+# Matt Burnett's Programming Portfolio 2024-25
 Projected graduation in 2027
 My favorite video: https://www.youtube.com/watch?v=YoB8t0B4jx4
 
