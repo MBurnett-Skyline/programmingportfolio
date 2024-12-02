@@ -36,8 +36,10 @@ Object oriented graphical caluclator with custom buttons and UI.
 
 [Source Code](https://github.com/MBurnett-Skyline/programmingportfolio/blob/main/src/term2/Calculator/Calculator.pde)
 
+### Space Game
+
 Object oriented game with collision detection, RNG, graphics, UI, and more!
 
-![Running App] (https://github.com/MBurnett-Skyline/programmingportfolio/blob/main/images/space.png?raw=true)
+![Running App](https://github.com/MBurnett-Skyline/programmingportfolio/blob/main/images/space.png?raw=true)
 
-[Source Code] (https://github.com/MBurnett-Skyline/programmingportfolio/blob/main/src/term2/SpaceGame/SpaceGame.pde)
+[Source Code](https://github.com/MBurnett-Skyline/programmingportfolio/blob/main/src/term2/SpaceGame/SpaceGame.pde)
