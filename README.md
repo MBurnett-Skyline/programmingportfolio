@@ -7,12 +7,12 @@
 
 #### Experience
 * YouScience Certifications:
-  * Computer Programming I
+  * [Computer Programming I] (https://github.com/MBurnett-Skyline/programmingportfolio/blob/main/images/certificate.pdf)
 * Working in Unity since 2021 (C#)
 * Experience in ClipStudioPaint (animation and drawing) and Adobe Photoshop (drawing)
 * Took a class that essentially was editing and making movies (I can edit and direct)
 * Directed and shot a comedic short about the Grim Reaper
-* In the process of creating an analog horror series with transitions, effects, and animation
+* In the process of creating an analog horror series with transitions, effects, and animations
 
 ## Term 1
 ### Computer History Timeline
