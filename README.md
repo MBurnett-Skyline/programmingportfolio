@@ -1,4 +1,7 @@
-# Matt Burnett's Programming Portfolio 2024-25
+# Matt Burnett's Programming I Portfolio 2024-25
+* Contact Information:
+  * Email: mburnett51109@gmail.com
+  * Phone: (424)-352-9233
 * Projected graduation in 2027
 * My favorite video: https://www.youtube.com/watch?v=YoB8t0B4jx4
 
